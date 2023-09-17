@@ -1,2 +1,2 @@
 # Terraform-Test
- Testing with Terraform
+Testing with terraform to create a practice lab environment on AWS
